@@ -15,10 +15,9 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "WeChatOpenSDK",
-      url: "https://dldir1.qq.com/WechatWebDev/opensdk/XCFramework/OpenSDK2.0.2.zip",
-      checksum: "b76426f41e15e5989b9d144b6533376eeb2d32215e797f2306035f7aa7bf2c2a"
+      url: "https://dldir1.qq.com/WechatWebDev/opensdk/XCFramework/OpenSDK2.0.4.zip",
+      checksum: "e9fbaf3cd69f1e0b2dce6d4a9713d797ad4e4c42903adebe359ef569e6aca388"
     )
   ]
-  // https://academy.useinsider.com/docs/ios-sdk-changelog
-  // checksum: swift package compute-checksum OpenSDK2.0.2.zip
+  // checksum: swift package compute-checksum OpenSDK2.0.4.zip
 )
